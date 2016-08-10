@@ -1,4 +1,3 @@
-layout_spectrum: 0.12170375534333289
 typography_spectrum: 0.11135418131016195
 color:
   brandStrength: 0.5546995478216559
@@ -11,4 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.12170375534333289
 name: True Health Centers
+title: True Health Centers
+description: health solutions found here
