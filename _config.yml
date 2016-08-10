@@ -1,0 +1,14 @@
+layout_spectrum: 0.12170375534333289
+typography_spectrum: 0.11135418131016195
+color:
+  brandStrength: 0.5546995478216559
+  lightness: 0.04626260534860194
+  saturation: 0.029105359222739935
+  rhythmicContrast: 0.6588896161410958
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: True Health Centers
