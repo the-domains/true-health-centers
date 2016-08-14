@@ -1,16 +1,16 @@
-typography_spectrum: 0.11135418131016195
+typography_spectrum: 0.46439463226124644
 color:
-  brandStrength: 0.5546995478216559
-  lightness: 0.04626260534860194
-  saturation: 0.029105359222739935
-  rhythmicContrast: 0.6588896161410958
+  brandStrength: 0.9292113063856959
+  lightness: 0.5896644291933626
+  saturation: 0.8370655470062047
+  rhythmicContrast: 0.19881988083943725
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.12170375534333289
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+layout_spectrum: 0.1812858316116035
 author:
   email: info@truehealthcenters.net
   url: www.truehealthcenters.net
