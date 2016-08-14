@@ -22,5 +22,8 @@ navigation:
   - name: Blair Upper Cervical Chiropractic
     url: www.blairchiropractic.com
     type: external
+  - name: Upper Cervical Advocates
+    url: www.upcspine.com
+    type: external
 title: True Health Centers
 description: health solutions found here
