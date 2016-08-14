@@ -18,6 +18,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5985935b-7f79-462b-9b6f-58c7435117ac.jpg
 name: True Health Centers
+navigation:
+  - name: Blair Upper Cervical Chiropractic
+    url: www.blairchiropractic.com
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a651b01b-1077-4151-8c30-3f9e5c85b4da.jpg
 title: health solutions found here
